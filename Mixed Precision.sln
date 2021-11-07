@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mixed Precision", "Mixed Precision\Mixed Precision.vcxproj", "{8D1078D0-3725-4B5C-8FF9-7551C34ACEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1078D0-3725-4B5C-8FF9-7551C34ACEBB}.Debug|x64.ActiveCfg = Debug|x64
+		{8D1078D0-3725-4B5C-8FF9-7551C34ACEBB}.Debug|x64.Build.0 = Debug|x64
+		{8D1078D0-3725-4B5C-8FF9-7551C34ACEBB}.Release|x64.ActiveCfg = Release|x64
+		{8D1078D0-3725-4B5C-8FF9-7551C34ACEBB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB42AE54-6423-4E6C-B2A9-E02C086EE2A6}
+	EndGlobalSection
+EndGlobal
